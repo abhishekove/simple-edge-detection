@@ -14,3 +14,7 @@ example/.idea
 .idea
 
 android/.cxx
+
+android/src/main/jniLibs
+
+ios/opencv2.framework
